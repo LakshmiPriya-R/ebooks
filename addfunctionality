@@ -1,0 +1,7 @@
+pdf upload for publisher - add an upload interface for the actual pdf of the book
+
+search interface for books for end user while creating custom book
+- includes viewing capability of the actual published doc
+- search by name/author and other parameters
+
+while adding books to custom book, show already added chunks so far

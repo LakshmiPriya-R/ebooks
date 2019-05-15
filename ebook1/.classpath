@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_111]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/fop-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/saxon9-dom-9.1.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/fontbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/pdfbox-debugger-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/pdfbox-tools-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/preflight-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/saxon-9.1.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/saxon-xqj-9.1.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Desktop/Project/ebook1/WebContent/WEB-INF/lib/xmpbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-xml-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-script-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-transcoder-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-svggen-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-svg-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-util-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-parser-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-gvt-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-extension-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-ext-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-css-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-bridge-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-awt-util-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/batik-anim-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/avalon-framework-impl-4.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/avalon-framework-api-4.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/xmlgraphics-commons-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/fop-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yashpal/Downloads/jars/org.apache.servicemix.bundles.xmlgraphics-commons-2.2_1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
